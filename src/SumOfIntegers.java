@@ -8,7 +8,7 @@ public class SumOfIntegers {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter integers with a gap  :");
+        System.out.println("Enter integers with a gap : ");
         String t = sc.nextLine();
         StringTokenizer st = new StringTokenizer(t, " ");
 
